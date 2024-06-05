@@ -48,7 +48,7 @@ export default function Home() {
             </a>
           </div>
           <div className="mt-10 md:mt-7">
-            <h2 className="text-2xl">Sign up for more updates on the venue and schedule.</h2>
+            <h2 className="text-2xl">Sign up for more updates on the venue and schedule</h2>
             <a
               href="#"
               target="_blank"
