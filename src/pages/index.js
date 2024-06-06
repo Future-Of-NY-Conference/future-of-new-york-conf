@@ -19,9 +19,8 @@ export default function Home() {
           <h1 className="text-5xl md:text-7xl mt-4">The Future Of New York</h1>
           <div className="mt-7 md:text-lg text-gray-800 space-y-5">
             <p>
-              An invite-only working conference for elected/appointed officials, politcally potent New Yorkers, and smart, 
-              kind ambitious
-              thinkers to come together to make a lasting impact. At the conference we will
+              An invite-only working conference for elected/appointed officials, politcally potent New Yorkers, and 
+              ambitious thinkers to come together to make a lasting impact. At the conference we will
               make concrete progress on 3-5 moonshot projects, any one of which has the potential to
               dramatically reshape New York City for the better.
             </p>
