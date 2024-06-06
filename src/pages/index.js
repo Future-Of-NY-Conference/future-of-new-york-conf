@@ -14,7 +14,7 @@ export default function Home() {
       <div className="flex min-h-screen flex-col items-center justify-between  bg-hero-gradient relative px-5 pt-72 md:pt-[350px] pb-20 bg-cover">
         <div className="max-w-4xl text-center z-10">
           <p className="text-sm font-medium text-[#192c55] bg-[#123480]/15 rounded-full py-2 px-5 inline-block backdrop-blur-md">
-            Connecting civic leaders with pragmatic visionaries
+            A literal Manhattan project
           </p>
           <h1 className="text-5xl md:text-7xl mt-4 md:pr-6">The Future Of New York</h1>
           <div className="mt-7 md:text-lg text-gray-800 space-y-5">
