@@ -31,6 +31,9 @@ const HeadMeta = ({
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={img} />
+
+      {/* Fathom analytics */}
+      <script src="https://cdn.usefathom.com/script.js" data-site="AFEXYXCV" defer></script>
     </Head>
   )
 }
