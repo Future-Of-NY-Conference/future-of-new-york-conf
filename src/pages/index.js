@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <main className={`${inter.className}`}>
       <Head>
-        <title>The Future Of New York - Conference</title>
+        <title>The Future Of New York</title>
       </Head>
       <div className="flex min-h-screen flex-col items-center justify-between  bg-hero-gradient relative px-5 pt-72 md:pt-[350px] pb-20 bg-cover">
         <div className="max-w-4xl text-center z-10">
