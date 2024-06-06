@@ -49,7 +49,7 @@ export default function Home() {
             </a>
           </div>
           <div className="mt-10 md:mt-7">
-            <h2 className="text-2xl">Sign up for more updates on the venue and schedule</h2>
+            <h2 className="text-2xl">Subscribe for updates and a thorough post-conference writeup.</h2>
             <a
               href="https://forms.reform.app/f/future-of-new-york-conf/93ax6a"
               target="_blank"
