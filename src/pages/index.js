@@ -18,7 +18,7 @@ export default function Home() {
           <div className="mt-7 md:text-lg text-gray-800 space-y-5">
             <p>
               An invite-only working conference for elected/appointed officials and ambitious civic thinkers. 
-              Attendees will make concrete progress on 3-5 moonshot projects, each of which has the potential to
+              Attendees will make concrete progress on 3-5 moonshot projects, all of which have the potential to
               dramatically reshape New York City for the better.
             </p>
           </div>
