@@ -11,20 +11,23 @@ const HeadMeta = ({
       <title>{title}</title>
       <link rel="canonical" href={url} />
       <meta name="robots" content="index, follow" />
-
       <meta name="description" content={description} />
-      <meta property="og:title" content={title} />
-      <meta property="og:description" content={description} />
-      <meta property="og:image" content={img} />
-      <meta property="og:image:alt" content={description} />
 
-      <meta property="og:url" content={url} />
+      {/* OpenGraph Card */}
       <meta property="og:type" content="website" />
+      <meta property="og:url" content={url} />
+      <meta property="og:title" content={title} />
+      <meta property="og:image" content={img} />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="630" />
+      <meta property="og:image:alt" content={description} />
+      <meta property="og:description" content={description} />
       <meta property="og:site_name" content="Future Of New York Conf" />
 
-      <meta property="twitter:domain" content="futureofnewyork.org" />
-      <meta property="twitter:url" content={url} />
+      {/* Twitter Card */}
       <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:domain" content="futureofnewyork.org" />
+      <meta name="twitter:url" content={url} />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={img} />
