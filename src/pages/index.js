@@ -17,10 +17,9 @@ export default function Home() {
           <h1 className="text-5xl md:text-7xl mt-4 md:pr-6">The Future Of New York</h1>
           <div className="mt-7 md:text-lg text-gray-800 space-y-5">
             <p>
-              An invite-only working conference for elected/appointed officials and ambitious civic
-              thinkers. At the conference we will make concrete progress on 3-5 moonshot projects,
-              any one of which has the potential to dramatically reshape New York City for the
-              better.
+              An invite-only working conference for elected/appointed officials and ambitious civic thinkers. 
+              Attendees will make concrete progress on 3-5 moonshot projects, any one of which has the potential to
+              dramatically reshape New York City for the better.
             </p>
           </div>
           <div className="mt-7 flex flex-col md:flex-row items-center md:space-x-10 space-y-4 md:space-y-0 justify-center">
