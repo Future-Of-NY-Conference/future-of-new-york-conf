@@ -50,7 +50,7 @@ export default function Home() {
           <div className="mt-10 md:mt-7">
             <h2 className="text-2xl">Sign up for more updates on the venue and schedule</h2>
             <a
-              href="#"
+              href="https://forms.reform.app/f/future-of-new-york-conf/93ax6a"
               target="_blank"
               className="flex md:inline-flex items-center justify-center rounded-lg bg-gradient-to-t from-[#123480] to-[#123480] text-white px-6 py-4 shadow-lg mt-6 text-lg hover:from-[#123480] hover:to-[#1b49ad] border border-solid border-[#1b49ad] hover:-translate-y-1  transition-all ease-in-out duration-200"
             >
