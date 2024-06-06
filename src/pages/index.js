@@ -16,7 +16,7 @@ export default function Home() {
           <p className="text-sm font-medium text-[#192c55] bg-[#123480]/15 rounded-full py-2 px-5 inline-block backdrop-blur-md">
             Connecting Leaders, Visionaries, and Change-Makers
           </p>
-          <h1 className="text-5xl md:text-7xl mt-4">The Future Of New York</h1>
+          <h1 className="text-5xl md:text-7xl mt-4 md:pr-6">The Future Of New York</h1>
           <div className="mt-7 md:text-lg text-gray-800 space-y-5">
             <p>
               Join us for an exclusive gathering, where elected and appointed officials, influential
@@ -26,22 +26,22 @@ export default function Home() {
             </p>
           </div>
           <div className="mt-7 flex flex-col md:flex-row items-center md:space-x-10 space-y-4 md:space-y-0 justify-center">
-            <div className="flex items-center space-x-3">
+            <div className="flex items-center space-x-3 md:min-w-[150px] md:justify-end">
               <CalendarIcon className="w-6 h-6 text-[#1A439E]" />
               <p>Fall 2024</p>
             </div>
-            <div className="flex items-center space-x-3">
+            <div className="flex items-center space-x-3 md:min-w-[150px]">
               <MapPinIcon className="w-6 h-6 text-[#1A439E]" />
               <p>Manhattan, NY</p>
             </div>
           </div>
           <div className="mt-10 md:mt-7 flex flex-col md:flex-row items-center md:space-x-5 space-y-2 md:space-y-0 justify-center">
-            <p>Presented by</p>
+            <p className="min-w-[150px] md:text-right">Presented by</p>
             <Image src="/images/logo-mny.png" width={60} height={60} alt="Maximum New York Logo" />
             <a
               href="https://www.maximumnewyork.com/"
               target="_blank"
-              className="border-b border-gray-600/20 hover:border-[#1A439E]/50 hover:text-[#1A439E] transition-all ease-in-out duration-200 relative group"
+              className="border-b border-gray-600/20 hover:border-[#1A439E]/50 hover:text-[#1A439E] transition-all ease-in-out duration-200 relative group md:min-w-[150px]"
             >
               Maximum New York
               <ArrowUpRightIcon className="w-3 h-3 absolute top-1 -right-4 text-[#1b49ad] hidden group-hover:inline-block" />
