@@ -14,15 +14,16 @@ export default function Home() {
       <div className="flex min-h-screen flex-col items-center justify-between  bg-hero-gradient relative px-5 pt-72 md:pt-[350px] pb-20 bg-cover">
         <div className="max-w-4xl text-center z-10">
           <p className="text-sm font-medium text-[#192c55] bg-[#123480]/15 rounded-full py-2 px-5 inline-block backdrop-blur-md">
-            Connecting Leaders, Visionaries, and Change-Makers
+            Connecting leaders, visionaries, and change-makers
           </p>
           <h1 className="text-5xl md:text-7xl mt-4">The Future Of New York</h1>
           <div className="mt-7 md:text-lg text-gray-800 space-y-5">
             <p>
-              Join us for an exclusive gathering, where elected and appointed officials, influential
-              figures, and ambitious thinkers will come together to make a lasting impact. Our goal
-              is to drive concrete progress on 3-5 moonshot projects that have the potential to
-              dramatically reshape our city for the better.
+              An invite-only working conference for elected/appointed officials, politcally potent New Yorkers, and smart, 
+              kind ambitious
+              thinkers to come together to make a lasting impact. At the conference we will
+              make concrete progress on 3-5 moonshot projects, any one of which has the potential to
+              dramatically reshape New York City for the better.
             </p>
           </div>
           <div className="mt-7 flex flex-col md:flex-row items-center md:space-x-10 space-y-4 md:space-y-0 justify-center">
