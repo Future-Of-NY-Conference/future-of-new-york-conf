@@ -32,7 +32,7 @@ export default function Home() {
             </div>
             <div className="flex items-center space-x-3">
               <MapPinIcon className="w-6 h-6 text-[#1A439E]" />
-              <p>Manhattan, NY</p>
+              <p>Manhattan</p>
             </div>
           </div>
           <div className="mt-10 md:mt-7 flex flex-col md:flex-row items-center md:space-x-5 space-y-2 md:space-y-0 justify-center">
