@@ -18,8 +18,8 @@ export default function Home() {
           <div className="mt-7 md:text-lg text-gray-800 space-y-5">
             <p>
               An invite-only working conference for elected/appointed officials and ambitious civic
-              thinkers. Attendees will make concrete progress on four moonshot projects, all of which
-              have the potential to dramatically reshape New York City for the better.
+              thinkers. Attendees will make concrete progress on four moonshot projects, each of which
+              has the potential to dramatically reshape New York City for the better.
             </p>
           </div>
           <div className="mt-5 flex flex-col md:flex-row items-center md:space-x-10 space-y-4 md:space-y-0 justify-center">
